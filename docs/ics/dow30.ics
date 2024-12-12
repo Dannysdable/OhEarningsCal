@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:Tg5jF-odN_cvzoq2OVa_F
+UID:XPsiUa3GnlujUnLZ-Le3K
 SUMMARY:家得宝 发布财报
-DTSTAMP:20241211T165137Z
+DTSTAMP:20241212T044835Z
 DTSTART;VALUE=DATE:20241112
 DESCRIPTION:财务季度：Oct/2024。\n代码：HD，公司：家得宝，行业: 零售。\n预计每股收益: $3.64，当前市值: $400\
 	,376\,694\,401。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=HD \n在富途查看：h
@@ -22,9 +22,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:l_ud1wXTU55ZN1Bt5nygw
+UID:aZCB8V-TJpBii0qa8XnlS
 SUMMARY:思科系统 发布财报
-DTSTAMP:20241211T165137Z
+DTSTAMP:20241212T044835Z
 DTSTART;VALUE=DATE:20241113
 DESCRIPTION:财务季度：Oct/2024。\n代码：CSCO，公司：思科系统，行业: 计算机网络。\n预计每股收益: $0.71，当前市值:
 	 $236\,171\,685\,108。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=CSCO \
@@ -38,9 +38,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:3I0xcvj5-dCOXr5ythNqY
+UID:3jqsIbPqn1EQK3QnFD4dz
 SUMMARY:华特迪士尼 发布财报
-DTSTAMP:20241211T165137Z
+DTSTAMP:20241212T044835Z
 DTSTART;VALUE=DATE:20241114
 DESCRIPTION:财务季度：Sep/2024。\n代码：DIS，公司：华特迪士尼，行业: 广播及娱乐。\n预计每股收益: $1.09，当前市值:
 	 $197\,898\,654\,905。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=DIS \n
@@ -54,9 +54,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:KzbYhpZcxtvYWUm_H7B15
+UID:8iTnnuZcyO1zXRi6Xo33o
 SUMMARY:沃尔玛 发布财报
-DTSTAMP:20241211T165137Z
+DTSTAMP:20241212T044835Z
 DTSTART;VALUE=DATE:20241119
 DESCRIPTION:财务季度：Oct/2024。\n代码：WMT，公司：沃尔玛，行业: 零售。\n预计每股收益: $0.53，当前市值: $696
 	\,112\,551\,668。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=WMT \n在富途查看
@@ -70,9 +70,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:YntKhDakaKfjZJwJLLLlc
+UID:ftgQbnflBgG5ypqtJGjk8
 SUMMARY:赛富时 发布财报
-DTSTAMP:20241211T165137Z
+DTSTAMP:20241212T044835Z
 DTSTART;VALUE=DATE:20241203
 DESCRIPTION:财务季度：Oct/2024。\n代码：CRM，公司：赛富时，行业: 云端服务。\n预计每股收益: $1.78，当前市值: $3
 	16\,445\,560\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=CRM \n在富途
@@ -86,9 +86,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:0S0WHnulGE_yoaSPGyiFW
+UID:pgyurp216CTPi2urL4pcU
 SUMMARY:耐克 盘后发布财报
-DTSTAMP:20241211T165137Z
+DTSTAMP:20241212T044835Z
 DTSTART;VALUE=DATE:20241219
 DESCRIPTION:财务季度：Nov/2024。\n代码：NKE，公司：耐克，行业: 服装。\n预计每股收益: $0.64，当前市值: $115\
 	,566\,808\,943。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NKE \n在富途查看：
@@ -102,13 +102,29 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:kfOztHrixWklzk_ka3FpR
+UID:q3vP93jQpBnl-7hXS6H03
 SUMMARY:沃尔格林博姿联合公司 盘前发布财报
-DTSTAMP:20241211T165137Z
+DTSTAMP:20241212T044835Z
 DTSTART;VALUE=DATE:20250109
 DESCRIPTION:财务季度：Nov/2024。\n代码：WBA，公司：沃尔格林博姿联合公司，行业: 零售。\n预计每股收益: $0.39，当前市
 	值: $9\,009\,310\,494。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=WBA \n
 	在富途查看：https://www.futunn.com/hk/stock/WBA-US 
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:By8zKhJcGMb3IYQu7nyaX
+SUMMARY:联合健康保险 发布财报
+DTSTAMP:20241212T044835Z
+DTSTART;VALUE=DATE:20250110
+DESCRIPTION:财务季度：Dec/2024。\n代码：UNH，公司：联合健康保险，行业: 保健管理。\n预计每股收益: $6.74，当前市值:
+	 $520\,135\,502\,733。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=UNH \n
+	在富途查看：https://www.futunn.com/hk/stock/UNH-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 BEGIN:VALARM
