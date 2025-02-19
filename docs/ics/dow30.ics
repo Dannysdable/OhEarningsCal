@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:jPq9VnWrxm2WS53Qn2l9W
+UID:VRonMxk-dXM1LMEwNwo2K
 SUMMARY:默克药厂 发布财报
-DTSTAMP:20250219T044541Z
+DTSTAMP:20250219T164713Z
 DTSTART;VALUE=DATE:20250204
 DESCRIPTION:财务季度：Dec/2024。\n代码：MRK，公司：默克药厂，行业: 制药。\n预计每股收益: $1.69，当前市值: $22
 	9\,539\,138\,427。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=MRK \n在富途查
@@ -22,9 +22,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:8FfF7rN6vb7VZDhJSv_TQ
+UID:WAsDfvyI25gBwvgES3olR
 SUMMARY:安进 发布财报
-DTSTAMP:20250219T044541Z
+DTSTAMP:20250219T164713Z
 DTSTART;VALUE=DATE:20250204
 DESCRIPTION:财务季度：Dec/2024。\n代码：AMGN，公司：安进，行业: 卫生保健。\n预计每股收益: $5.03，当前市值: $1
 	55\,357\,707\,601。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AMGN \n在富
@@ -38,9 +38,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ulI7zwOdKl2fziB0_Jx7X
+UID:yuE2p-cIyDH6VSC_aw2JM
 SUMMARY:华特迪士尼 盘前发布财报
-DTSTAMP:20250219T044541Z
+DTSTAMP:20250219T164713Z
 DTSTART;VALUE=DATE:20250205
 DESCRIPTION:财务季度：Dec/2024。\n代码：DIS，公司：华特迪士尼，行业: 广播及娱乐。\n预计每股收益: $1.44，当前市值:
 	 $206\,447\,080\,884。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=DIS \n
@@ -54,9 +54,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:J-RbmGtm_YktqnjFn9KRa
+UID:_TKoDjPsKuDEialnSJQ70
 SUMMARY:霍尼韦尔 发布财报
-DTSTAMP:20250219T044541Z
+DTSTAMP:20250219T164713Z
 DTSTART;VALUE=DATE:20250206
 DESCRIPTION:财务季度：Dec/2024。\n代码：HON，公司：霍尼韦尔，行业: 综合企业。\n预计每股收益: $2.31，当前市值: $
 	144\,582\,504\,943。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=HON \n在富
@@ -70,9 +70,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Zm3iDF9aMIFO_OYgS2vO4
+UID:Z9kZvNTGASc82iUk_n3SF
 SUMMARY:麦当劳 发布财报
-DTSTAMP:20250219T044541Z
+DTSTAMP:20250219T164713Z
 DTSTART;VALUE=DATE:20250210
 DESCRIPTION:财务季度：Dec/2024。\n代码：MCD，公司：麦当劳，行业: 快餐。\n预计每股收益: $2.83，当前市值: $210
 	\,901\,173\,589。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=MCD \n在富途查看
@@ -86,9 +86,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:KTMV3fniZktrjliVQ-19P
+UID:Fs0gMSO0AD4MbtG1zsyur
 SUMMARY:可口可乐 发布财报
-DTSTAMP:20250219T044541Z
+DTSTAMP:20250219T164713Z
 DTSTART;VALUE=DATE:20250211
 DESCRIPTION:财务季度：Dec/2024。\n代码：KO，公司：可口可乐，行业: 饮料。\n预计每股收益: $0.51，当前市值: $291
 	\,207\,086\,528。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=KO \n在富途查看：
@@ -102,9 +102,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:RJ45BKw3F4r95RAuOXSBC
+UID:FK_PthWxpznO7mb1DTC-z
 SUMMARY:思科系统 发布财报
-DTSTAMP:20250219T044541Z
+DTSTAMP:20250219T164713Z
 DTSTART;VALUE=DATE:20250212
 DESCRIPTION:财务季度：Jan/2025。\n代码：CSCO，公司：思科系统，行业: 计算机网络。\n预计每股收益: $0.74，当前市值:
 	 $249\,041\,873\,997。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=CSCO \
@@ -118,12 +118,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:5bqgu27IEx3F0NzxE4W-d
+UID:foFaxU6at8nG9o5uPlinV
 SUMMARY:沃尔玛 盘前发布财报
-DTSTAMP:20250219T044541Z
+DTSTAMP:20250219T164713Z
 DTSTART;VALUE=DATE:20250220
-DESCRIPTION:财务季度：Jan/2025。\n代码：WMT，公司：沃尔玛，行业: 零售。\n预计每股收益: $0.64，当前市值: $843
-	\,907\,221\,885。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=WMT \n在富途查看
+DESCRIPTION:财务季度：Jan/2025。\n代码：WMT，公司：沃尔玛，行业: 零售。\n预计每股收益: $0.64，当前市值: $835
+	\,793\,501\,808。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=WMT \n在富途查看
 	：https://www.futunn.com/hk/stock/WMT-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -134,12 +134,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:fZRKZqihL_fL9zD5rsASt
+UID:O5pr3d1GpyV2uCncTVDBn
 SUMMARY:家得宝 盘前发布财报
-DTSTAMP:20250219T044541Z
+DTSTAMP:20250219T164713Z
 DTSTART;VALUE=DATE:20250225
-DESCRIPTION:财务季度：Jan/2025。\n代码：HD，公司：家得宝，行业: 零售。\n预计每股收益: $3.08，当前市值: $409\
-	,692\,542\,067。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=HD \n在富途查看：h
+DESCRIPTION:财务季度：Jan/2025。\n代码：HD，公司：家得宝，行业: 零售。\n预计每股收益: $3.08，当前市值: $406\
+	,781\,989\,614。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=HD \n在富途查看：h
 	ttps://www.futunn.com/hk/stock/HD-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -150,12 +150,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:gPrPKcAtwAhAyJCseZYoR
+UID:_LY1F5CTDQlmKmxUdlapp
 SUMMARY:赛富时 盘后发布财报
-DTSTAMP:20250219T044541Z
+DTSTAMP:20250219T164713Z
 DTSTART;VALUE=DATE:20250226
 DESCRIPTION:财务季度：Jan/2025。\n代码：CRM，公司：赛富时，行业: 云端服务。\n预计每股收益: $1.95，当前市值: $3
-	15\,666\,450\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=CRM \n在富途
+	14\,814\,720\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=CRM \n在富途
 	查看：https://www.futunn.com/hk/stock/CRM-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -166,9 +166,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:FxoQ-9L_mNQQs9_0iP3Kk
+UID:NGk2ZxylACpBJB6FWEpQb
 SUMMARY:耐克 发布财报
-DTSTAMP:20250219T044541Z
+DTSTAMP:20250219T164713Z
 DTSTART;VALUE=DATE:20250320
 DESCRIPTION:财务季度：Feb/2025。\n代码：NKE，公司：耐克，行业: 服装。\n预计每股收益: $0.28，当前市值: $108\
 	,035\,427\,826。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NKE \n在富途查看：
