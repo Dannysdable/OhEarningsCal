@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:bywmk7ogdTjFb0LhTQTDh
+UID:2aEFc7aSl-dT_miEscPCZ
 SUMMARY:耐克 发布财报
-DTSTAMP:20250323T044428Z
+DTSTAMP:20250323T164523Z
 DTSTART;VALUE=DATE:20250320
 DESCRIPTION:财务季度：Feb/2025。\n代码：NKE，公司：耐克，行业: 服装。\n预计每股收益: $0.28，当前市值: $107\
 	,961\,471\,482。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NKE \n在富途查看：
@@ -22,9 +22,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ex5Fra1zHaSkux-OqBSVM
+UID:SJ7IRLfQIbO1V195K8vJn
 SUMMARY:沃尔格林博姿联合公司 发布财报
-DTSTAMP:20250323T044428Z
+DTSTAMP:20250323T164523Z
 DTSTART;VALUE=DATE:20250327
 DESCRIPTION:财务季度：Feb/2025。\n代码：WBA，公司：沃尔格林博姿联合公司，行业: 零售。\n预计每股收益: $0.53，当前市
 	值: $9\,609\,386\,564。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=WBA \n
@@ -38,9 +38,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:IFRMA51Or2ysqei_lhaoS
+UID:tVyW3SioA6PTA-xAbP12L
 SUMMARY:摩根大通 盘前发布财报
-DTSTAMP:20250323T044428Z
+DTSTAMP:20250323T164523Z
 DTSTART;VALUE=DATE:20250411
 DESCRIPTION:财务季度：Mar/2025。\n代码：JPM，公司：摩根大通，行业: 银行。\n预计每股收益: $4.58，当前市值: $66
 	8\,297\,318\,722。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=JPM \n在富途查
@@ -54,9 +54,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:8xS7YSvGtTsFNE6JiyEFA
+UID:RnQ9hCACK1Lnofi-T2e5v
 SUMMARY:联合健康保险 发布财报
-DTSTAMP:20250323T044428Z
+DTSTAMP:20250323T164523Z
 DTSTART;VALUE=DATE:20250415
 DESCRIPTION:财务季度：Mar/2025。\n代码：UNH，公司：联合健康保险，行业: 保健管理。\n预计每股收益: $7.27，当前市值:
 	 $467\,692\,415\,863。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=UNH \n
@@ -70,9 +70,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:u7lk8-JZ6FwFHE5xXXFkl
+UID:w_YiTCoMzltsElokyYZDE
 SUMMARY:强生 盘前发布财报
-DTSTAMP:20250323T044428Z
+DTSTAMP:20250323T164523Z
 DTSTART;VALUE=DATE:20250415
 DESCRIPTION:财务季度：Mar/2025。\n代码：JNJ，公司：强生，行业: 制药。\n预计每股收益: $2.59，当前市值: $392\
 	,489\,673\,293。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=JNJ \n在富途查看：
@@ -86,9 +86,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:VaufYIGGPUSEqZwGbCdl9
+UID:86WEJHTge2e0RsILI_UKg
 SUMMARY:旅行者保险 盘前发布财报
-DTSTAMP:20250323T044428Z
+DTSTAMP:20250323T164523Z
 DTSTART;VALUE=DATE:20250416
 DESCRIPTION:财务季度：Mar/2025。\n代码：TRV，公司：旅行者保险，行业: 保险。\n预计每股收益: $0.53，当前市值: $5
 	8\,844\,617\,092。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TRV \n在富途查
@@ -102,9 +102,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:pbcepNTl32y9WCicxQ3G2
+UID:iWE6kaaroMLu1f0hg8wEu
 SUMMARY:美国运通 发布财报
-DTSTAMP:20250323T044428Z
+DTSTAMP:20250323T164523Z
 DTSTART;VALUE=DATE:20250418
 DESCRIPTION:财务季度：Mar/2025。\n代码：AXP，公司：美国运通，行业: 金融服务。\n预计每股收益: $3.47，当前市值: $
 	190\,266\,771\,622。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AXP \n在富
@@ -118,9 +118,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wQeXwp8jGGBmTYe59VHIN
+UID:dMhYvk5eZMtpiYy0h3pYN
 SUMMARY:高盛 发布财报
-DTSTAMP:20250323T044428Z
+DTSTAMP:20250323T164523Z
 DTSTART;VALUE=DATE:20250421
 DESCRIPTION:财务季度：Mar/2025。\n代码：GS，公司：高盛，行业: 银行、金融服务。\n预计每股收益: $12.27，当前市值: 
 	$175\,578\,123\,088。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=GS \n在富
