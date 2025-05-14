@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:6Okzd6uGwdArcSXFg3cbm
+UID:eryoIgVn041IBnfOc0-u-
 SUMMARY:苹果公司 发布财报
-DTSTAMP:20250514T044814Z
+DTSTAMP:20250514T165117Z
 DTSTART;VALUE=DATE:20250501
 DESCRIPTION:财务季度：Mar/2025。\n代码：AAPL，公司：苹果公司，行业: 消费电子产品。\n预计每股收益: $1.61，当前市值
 	: $3\,204\,508\,612\,360。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AA
@@ -22,9 +22,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:4PxOUKhy7RCMp_IFYh4nr
+UID:NsozJ8BSkHkLfeRjlTHPa
 SUMMARY:麦当劳 发布财报
-DTSTAMP:20250514T044814Z
+DTSTAMP:20250514T165117Z
 DTSTART;VALUE=DATE:20250501
 DESCRIPTION:财务季度：Mar/2025。\n代码：MCD，公司：麦当劳，行业: 快餐。\n预计每股收益: $2.64，当前市值: $224
 	\,083\,591\,636。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=MCD \n在富途查看
@@ -38,9 +38,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:P05ZEJqJg95pKqdKDjBoI
+UID:Vl_9-gj4obFpm9sbYI1Lr
 SUMMARY:安进 发布财报
-DTSTAMP:20250514T044814Z
+DTSTAMP:20250514T165117Z
 DTSTART;VALUE=DATE:20250501
 DESCRIPTION:财务季度：Mar/2025。\n代码：AMGN，公司：安进，行业: 卫生保健。\n预计每股收益: $4.16，当前市值: $1
 	52\,574\,494\,079。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AMGN \n在富
@@ -54,9 +54,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:_xUhAUIqPHnooao8_d5_j
+UID:LwZmsUkQdvPXOGC2ZNQM4
 SUMMARY:雪佛龙 发布财报
-DTSTAMP:20250514T044814Z
+DTSTAMP:20250514T165117Z
 DTSTART;VALUE=DATE:20250502
 DESCRIPTION:财务季度：Mar/2025。\n代码：CVX，公司：雪佛龙，行业: 石油与天然气。\n预计每股收益: $2.15，当前市值: 
 	$239\,899\,156\,652。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=CVX \n在
@@ -70,9 +70,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:SkPvUnDVXn1QTMa14dhIy
+UID:UN5-m8MSCgTm30rjo2bGx
 SUMMARY:华特迪士尼 发布财报
-DTSTAMP:20250514T044814Z
+DTSTAMP:20250514T165117Z
 DTSTART;VALUE=DATE:20250507
 DESCRIPTION:财务季度：Mar/2025。\n代码：DIS，公司：华特迪士尼，行业: 广播及娱乐。\n预计每股收益: $1.18，当前市值:
 	 $184\,557\,165\,228。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=DIS \n
@@ -86,12 +86,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:q-FbzCnT4qQAWv80JFnDG
+UID:U2sl9vFvHFPIz7gtbFZSi
 SUMMARY:思科系统 盘后发布财报
-DTSTAMP:20250514T044814Z
+DTSTAMP:20250514T165117Z
 DTSTART;VALUE=DATE:20250514
 DESCRIPTION:财务季度：Apr/2025。\n代码：CSCO，公司：思科系统，行业: 计算机网络。\n预计每股收益: $0.75，当前市值:
-	 $245\,341\,294\,281。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=CSCO \
+	 $245\,778\,906\,449。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=CSCO \
 	n在富途查看：https://www.futunn.com/hk/stock/CSCO-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -102,12 +102,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:QViLZcpq-8llMFOymxj8C
+UID:nHVby_kr1CaV1BZBjJjiD
 SUMMARY:沃尔玛 盘前发布财报
-DTSTAMP:20250514T044814Z
+DTSTAMP:20250514T165117Z
 DTSTART;VALUE=DATE:20250515
-DESCRIPTION:财务季度：Apr/2025。\n代码：WMT，公司：沃尔玛，行业: 零售。\n预计每股收益: $0.57，当前市值: $775
-	\,630\,183\,707。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=WMT \n在富途查看
+DESCRIPTION:财务季度：Apr/2025。\n代码：WMT，公司：沃尔玛，行业: 零售。\n预计每股收益: $0.57，当前市值: $768
+	\,655\,524\,691。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=WMT \n在富途查看
 	：https://www.futunn.com/hk/stock/WMT-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -118,12 +118,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:SgtchsetoZpG2qfAyikHz
+UID:fo2KE9ZJDGGvUUPtkAGho
 SUMMARY:家得宝 盘前发布财报
-DTSTAMP:20250514T044814Z
+DTSTAMP:20250514T165117Z
 DTSTART;VALUE=DATE:20250520
-DESCRIPTION:财务季度：Apr/2025。\n代码：HD，公司：家得宝，行业: 零售。\n预计每股收益: $3.59，当前市值: $374\
-	,342\,574\,147。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=HD \n在富途查看：h
+DESCRIPTION:财务季度：Apr/2025。\n代码：HD，公司：家得宝，行业: 零售。\n预计每股收益: $3.59，当前市值: $371\
+	,370\,417\,965。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=HD \n在富途查看：h
 	ttps://www.futunn.com/hk/stock/HD-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -134,12 +134,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:t7AUG4AnP2JR4-pxn_rBr
+UID:Dpvgh9PLbNeCNoUKwASV2
 SUMMARY:赛富时 盘后发布财报
-DTSTAMP:20250514T044814Z
+DTSTAMP:20250514T165117Z
 DTSTART;VALUE=DATE:20250528
 DESCRIPTION:财务季度：Apr/2025。\n代码：CRM，公司：赛富时，行业: 云端服务。\n预计每股收益: $1.87，当前市值: $2
-	77\,556\,020\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=CRM \n在富途
+	77\,892\,370\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=CRM \n在富途
 	查看：https://www.futunn.com/hk/stock/CRM-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
