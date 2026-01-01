@@ -224,7 +224,7 @@
     {
       "lastYearRptDt": "1/30/2025",
       "lastYearEPS": "$3.47",
-      "time": "time-not-supplied",
+      "time": "time-pre-market",
       "symbol": "LHX",
       "name": "L3Harris Technologies, Inc.",
       "marketCap": "$55,268,504,703",
@@ -319,6 +319,17 @@
       "fiscalQuarterEnding": "Dec/2025",
       "epsForecast": "$2.68",
       "noOfEsts": "6"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "N/A",
+      "time": "time-after-hours",
+      "symbol": "SNDK",
+      "name": "Sandisk Corporation",
+      "marketCap": "$35,205,004,659",
+      "fiscalQuarterEnding": "Dec/2025",
+      "epsForecast": "$2.94",
+      "noOfEsts": "3"
     },
     {
       "lastYearRptDt": "1/30/2025",
@@ -620,7 +631,7 @@
     {
       "lastYearRptDt": "1/30/2025",
       "lastYearEPS": "$1.29",
-      "time": "time-not-supplied",
+      "time": "time-pre-market",
       "symbol": "KEX",
       "name": "Kirby Corporation",
       "marketCap": "$6,015,116,000",
@@ -715,6 +726,17 @@
       "fiscalQuarterEnding": "Dec/2025",
       "epsForecast": "$0.08",
       "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "1/28/2025",
+      "lastYearEPS": "$1.82",
+      "time": "time-after-hours",
+      "symbol": "AX",
+      "name": "Axos Financial, Inc.",
+      "marketCap": "$4,914,433,614",
+      "fiscalQuarterEnding": "Dec/2025",
+      "epsForecast": "$2.07",
+      "noOfEsts": "3"
     },
     {
       "lastYearRptDt": "1/30/2025",
@@ -1296,8 +1318,8 @@
       "name": "Pro-Dex, Inc.",
       "marketCap": "$125,897,044",
       "fiscalQuarterEnding": "Dec/2025",
-      "epsForecast": "$0.59",
-      "noOfEsts": "1"
+      "epsForecast": "",
+      "noOfEsts": "N/A"
     },
     {
       "lastYearRptDt": "1/30/2025",
