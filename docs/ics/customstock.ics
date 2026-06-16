@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:V-y-nd_jj36j_tkMzFlQq
+UID:-tYJ-SUnFrEMuYKesHHC5
 SUMMARY:百度 发布财报
-DTSTAMP:20260616T094116Z
+DTSTAMP:20260616T195704Z
 DTSTART;VALUE=DATE:20260518
 DESCRIPTION:财务季度：Mar/2026。\n代码：BIDU，公司：百度，行业: 互联网。\n预计每股收益: $1.51，当前市值: $46
 	\,856\,193\,671。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=BIDU \n在富途查
@@ -22,9 +22,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:yhkyYZ83CGFHpF5GjeKRk
+UID:Kl6-pNGT8cjb3_t4Q6WCs
 SUMMARY:BOSS 直聘 发布财报
-DTSTAMP:20260616T094116Z
+DTSTAMP:20260616T195704Z
 DTSTART;VALUE=DATE:20260520
 DESCRIPTION:财务季度：Mar/2026。\n代码：BZ，公司：BOSS 直聘，行业: 人力资源。\n预计每股收益: $0.19，当前市值:
 	 $6\,511\,676\,241。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=BZ \n在富途
@@ -38,9 +38,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:X5pacwM1AtBf9M_5cP3BO
+UID:xFRQLIgYiZS1njg7Fqdlv
 SUMMARY:蔚来 发布财报
-DTSTAMP:20260616T094116Z
+DTSTAMP:20260616T195704Z
 DTSTART;VALUE=DATE:20260521
 DESCRIPTION:财务季度：Mar/2026。\n代码：NIO，公司：蔚来，行业: 汽车。\n预计每股收益: ($0.24)，当前市值: $14
 	\,031\,735\,323。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NIO \n在富途查看
@@ -54,9 +54,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:65uYVWe7lc58l4WvJjCmC
+UID:92orCon17wPxOY2Vqxg7U
 SUMMARY:拼多多 发布财报
-DTSTAMP:20260616T094116Z
+DTSTAMP:20260616T195704Z
 DTSTART;VALUE=DATE:20260527
 DESCRIPTION:财务季度：Mar/2026。\n代码：PDD，公司：拼多多，行业: 电子商务。\n预计每股收益: $2.03，当前市值: $1
 	23\,280\,367\,574。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=PDD \n在富途
@@ -70,9 +70,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:L5xneqjgQsiA8H04VpNXW
+UID:iZ4E4oXM39brmzmTZWB8U
 SUMMARY:理想汽车 发布财报
-DTSTAMP:20260616T094116Z
+DTSTAMP:20260616T195704Z
 DTSTART;VALUE=DATE:20260528
 DESCRIPTION:财务季度：Mar/2026。\n代码：LI，公司：理想汽车，行业: 汽车。\n预计每股收益: $0，当前市值: $16\,60
 	0\,690\,517。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=LI \n在富途查看：http
@@ -86,9 +86,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Ke4PtvopBI_z-rocl8J2I
+UID:DM36eKpt6Jb0AgzpayrRV
 SUMMARY:小鹏汽车 发布财报
-DTSTAMP:20260616T094116Z
+DTSTAMP:20260616T195704Z
 DTSTART;VALUE=DATE:20260528
 DESCRIPTION:财务季度：Mar/2026。\n代码：XPEV，公司：小鹏汽车，行业: 汽车。\n预计每股收益: ，当前市值: $15\,71
 	3\,833\,692。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=XPEV \n在富途查看：ht
@@ -102,9 +102,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:luhs3xPe5Hubcc-9avYTI
+UID:VaSumyYtSvUB91YOjoBIO
 SUMMARY:C3.ai 发布财报
-DTSTAMP:20260616T094116Z
+DTSTAMP:20260616T195704Z
 DTSTART;VALUE=DATE:20260603
 DESCRIPTION:财务季度：Apr/2026。\n代码：AI，公司：C3.ai，行业: 软件。\n预计每股收益: ($0.74)，当前市值: $
 	1\,556\,068\,988。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AI \n在富途查看
