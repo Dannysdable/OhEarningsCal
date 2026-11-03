@@ -233,6 +233,17 @@
       "noOfEsts": "6"
     },
     {
+      "eps": "$0.56",
+      "surprise": "-56.59",
+      "time": "time-not-supplied",
+      "symbol": "PKX",
+      "name": "POSCO HOLDINGS INC.",
+      "marketCap": "$16,607,441,900",
+      "fiscalQuarterEnding": "Sep/2026",
+      "epsForecast": "$1.29",
+      "noOfEsts": "1"
+    },
+    {
       "eps": "$0.72",
       "surprise": "22.03",
       "time": "time-not-supplied",
@@ -1399,9 +1410,9 @@
       "noOfEsts": "2"
     },
     {
-      "eps": "$0.01",
+      "eps": "$0.05",
       "surprise": "N/A",
-      "time": "time-after-hours",
+      "time": "time-not-supplied",
       "symbol": "ADTN",
       "name": "ADTRAN Holdings, Inc.",
       "marketCap": "$511,703,232",
@@ -1641,6 +1652,28 @@
       "noOfEsts": "2"
     },
     {
+      "eps": "($1.98)",
+      "surprise": "N/A",
+      "time": "time-not-supplied",
+      "symbol": "OMEX",
+      "name": "Odyssey Marine Exploration, Inc.",
+      "marketCap": "$28,406,638",
+      "fiscalQuarterEnding": "Sep/2026",
+      "epsForecast": "",
+      "noOfEsts": "N/A"
+    },
+    {
+      "eps": "($0.15)",
+      "surprise": "N/A",
+      "time": "time-not-supplied",
+      "symbol": "FUSE",
+      "name": "Fusemachines Inc.",
+      "marketCap": "$12,399,535",
+      "fiscalQuarterEnding": "Sep/2026",
+      "epsForecast": "",
+      "noOfEsts": "N/A"
+    },
+    {
       "eps": "($2.31)",
       "surprise": "-26.92",
       "time": "time-not-supplied",
@@ -1650,6 +1683,17 @@
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "($1.82)",
       "noOfEsts": "1"
+    },
+    {
+      "eps": "($0.36)",
+      "surprise": "N/A",
+      "time": "time-not-supplied",
+      "symbol": "INM",
+      "name": "InMed Pharmaceuticals Inc.",
+      "marketCap": "$8,954,788",
+      "fiscalQuarterEnding": "Sep/2026",
+      "epsForecast": "",
+      "noOfEsts": "N/A"
     },
     {
       "eps": "($1.32)",
